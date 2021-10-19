@@ -1,0 +1,48 @@
+body{
+    margin:30px;
+    margin-top:0px;
+    font-family: system-ui;
+    color: #38333E;
+}
+img{
+    width: 58%;
+}
+.main{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    border:1px solid  #3B8DBC;
+}
+.pat{
+    background-color:#DBEDD3;
+    padding:10px;
+    
+}
+.features{
+    background-color:#ECECEC;
+    padding:10px;
+    margin-top:5px;
+}
+.pat,.features{
+    height:40px;
+    font-size:medium;
+    padding-left:20px;
+}
+p{
+    margin:0px;
+    margin-bottom:4px;
+}
+.but{
+    width:150px;
+    margin:auto;
+    margin-top:3px;
+    margin-bottom:3px;
+    
+}
+button{
+    padding:8px 15px;
+    color:white;
+    background-color: #3B8DBC;
+    outline:none;
+    border:none;
+}
